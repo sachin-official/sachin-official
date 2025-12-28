@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=SACHIN%20NANDHA%20SABARISH%20J&fontAlign=50&fontSize=50&textBg=false&section=header&desc=Founder%20and%20CEO%20|%20LearnLogicify%20Technologies%20LLP&fontAlignY=35&animation=twinkling&stroke=8B5CF3" alt="Header" />
 
-<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer+%26+Tech+Educator.)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer+%26+Tech+Educator." alt="Typing SVG" />
 
 </div>
 
